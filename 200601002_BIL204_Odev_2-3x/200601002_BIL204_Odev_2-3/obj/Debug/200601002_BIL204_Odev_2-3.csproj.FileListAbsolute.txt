@@ -1,0 +1,11 @@
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\bin\Debug\200601002_BIL204_Odev_2-3.exe.config
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\bin\Debug\200601002_BIL204_Odev_2-3.exe
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\bin\Debug\200601002_BIL204_Odev_2-3.pdb
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\200601002_BIL204_Odev_2-3.csproj.AssemblyReference.cache
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\200601002_BIL204_Odev_2-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\_200601002_BIL204_Odev_2_3.formMetin.resources
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\_200601002_BIL204_Odev_2_3.Properties.Resources.resources
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\200601002_BIL204_Odev_2-3.csproj.GenerateResource.cache
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\200601002_BIL204_Odev_2-3.csproj.CoreCompileInputs.cache
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\200601002_BIL204_Odev_2-3.exe
+C:\Users\tunaa\Source\Repos\200601002_BIL204_Odev_2-3x\200601002_BIL204_Odev_2-3\obj\Debug\200601002_BIL204_Odev_2-3.pdb
